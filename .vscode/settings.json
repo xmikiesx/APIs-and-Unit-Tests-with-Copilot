@@ -1,0 +1,27 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#ad63f1",
+    "statusBar.background": "#9534ed",
+    "titleBar.activeBackground": "#9534ed",
+    "titleBar.activeForeground": "#e7e7e7",
+    "activityBar.activeBackground": "#ad63f1",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#f4c18a",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#ad63f1",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#ad63f1",
+    "statusBarItem.remoteBackground": "#9534ed",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#9534ed99",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#9534ed",
+  "chat.promptFiles": true,
+  "chat.promptFilesLocations": {
+    "prompts/**/*.prompt.md": true
+  },
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true
+}
